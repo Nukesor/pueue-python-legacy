@@ -1,10 +1,12 @@
 # Pueue
 ![Pueue](https://raw.githubusercontent.com/Nukesor/images/master/pueue.png)
 
-### DEPRECATED
-Please use the Pueue rewrite.:
+## DEPRECATED!!!
+
+*Please use the Pueue rewrite:*  
 You can find it over [here](https::/github.com:nukesor/pueue)
 
+## DEPRECATED!!!
 
 Pueue is a command line queue management tool for sequential and parallel execution of long running tasks. Not being bound to any terminal it is possible to check on your processes from any terminal or using the API. And the best part is that the queue will be processed by the daemon, even if you exit your ssh session.
 It doesn't work for remote machines though, as the communication happens via unix sockets. You need to `ssh` into your machine to communicate with the daemon.
