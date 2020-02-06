@@ -7,7 +7,7 @@ setup(
     version='1.0.5',
     description='Pueue is a fancy queue for shell commands',
     keywords='shell queue command concurrent',
-    url='http://github.com/nukesor/pueue',
+    url='http://github.com/nukesor/pueue-python-legacy',
     license='MIT',
     install_requires=[
         'terminaltables>=3.1.0',
