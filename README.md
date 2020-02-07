@@ -4,7 +4,7 @@
 ## DEPRECATED!!!
 
 *Please use the Pueue rewrite:*  
-You can find it over [here](https::/github.com:nukesor/pueue)
+You can find it over [here](https://github.com/nukesor/pueue)
 
 ## DEPRECATED!!!
 
